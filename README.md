@@ -25,5 +25,5 @@ Vous devez également utilisez Gimp pour trouver les couleurs des éléments à 
 
 ## Remarques :
 - Vous devez utiliser un framework d'intégration type Bootstrap 4
-- Comme d'habitude vous pouvez utiliser du faux texte partout (http://hipsum.co/)
+- Comme d'habitude vous pouvez utiliser du faux texte partout (https://meettheipsums.com/)
 - Les images sont dans le dossier images
